@@ -1,0 +1,27 @@
+.status-green {
+    color: rgb(64, 238, 64);
+    font-weight: bold;
+  }
+  
+  .status-red {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .status-orange {
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .status-default {
+    color: rgb(2, 199, 74);
+    font-weight: bold;
+  }
+  
+  .residence-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
